@@ -7,4 +7,4 @@ Each algorithm in this repository has been carefully selected and modified from 
 
 ### BetterBFS
 
-A bfs algorithm that does NOT require the use of visited array.
+A BFS algorithm that does not require the use of a visited array.
