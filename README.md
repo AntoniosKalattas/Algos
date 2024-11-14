@@ -4,3 +4,7 @@ Welcome to my collection of modified algorithms! This repository contains variou
 # About
 
 Each algorithm in this repository has been carefully selected and modified from standard implementations to meet specific needs or showcase unique optimizations. The algorithms span across different domains, such as sorting, searching, graph traversal, and more.
+
+### BetterBFS
+
+A bfs algorithm that does NOT require the use of visited array.
